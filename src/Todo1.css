@@ -1,0 +1,11 @@
+.todo1 h1{
+   color: blue;
+}
+.todo1 button{
+   background-color: green;
+   color: white;
+   margin-left: 2rem;
+}
+/* .todo1 li span{
+   display: none;
+} */
